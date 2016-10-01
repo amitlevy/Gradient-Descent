@@ -1,2 +1,3 @@
 # Gradient-Descent
-A bunch of gradient descent algorithms, implemented in Python by me.
+A gradient descent algorithm, implemented in Python by me.
+I'll probably add more soon. 
